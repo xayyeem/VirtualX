@@ -170,9 +170,9 @@ export const platformLinks = [
 ];
 
 export const communityLinks = [
-  { href: "#", text: "GitHub" },
-  { href: "#", text: "X" },
-  { href: "#", text: "LinkedIn" },
-  { href: "#", text: "FaceBook" },
+  { href: "https://github.com/xayyeem/", text: "GitHub" },
+  { href: "https://x.com/khalidjafri11", text: "X" },
+  { href: "https://www.linkedin.com/in/khalid-haider-jafri-78368220a/", text: "LinkedIn" },
+  { href: "https://www.facebook.com/zayeem.haider/", text: "FaceBook" },
   // { href: "#", text: "Jobs" },
 ];
