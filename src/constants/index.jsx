@@ -170,9 +170,9 @@ export const platformLinks = [
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "GitHub" },
+  { href: "#", text: "X" },
+  { href: "#", text: "LinkedIn" },
+  { href: "#", text: "FaceBook" },
+  // { href: "#", text: "Jobs" },
 ];
